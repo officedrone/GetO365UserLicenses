@@ -1,0 +1,238 @@
+Product,ProductSku
+Advanced Communications,reseller-account:ADV_COMMS
+AI Builder Capacity add-on,reseller-account:CDSAICAPACITY
+APP CONNECT IW,reseller-account:SPZA_IW
+Microsoft 365 Audio Conferencing,reseller-account:MCOMEETADV
+AZURE ACTIVE DIRECTORY BASIC,reseller-account:AAD_BASIC
+AZURE ACTIVE DIRECTORY PREMIUM P1,reseller-account:AAD_PREMIUM
+AZURE ACTIVE DIRECTORY PREMIUM P2,reseller-account:AAD_PREMIUM_P2
+AZURE INFORMATION PROTECTION PLAN 1,reseller-account:RIGHTSMANAGEMENT
+Business Apps (free),reseller-account:SMB_APPS
+COMMON AREA PHONE,reseller-account:MCOCAP
+Common Area Phone for GCC,reseller-account:MCOCAP_GOV
+Common Data Service Database Capacity,reseller-account:CDS_DB_CAPACITY
+Common Data Service Log Capacity,reseller-account:CDS_LOG_CAPACITY
+COMMUNICATIONS CREDITS,reseller-account:MCOPSTNC
+Dynamics 365 - Additional Database Storage (Qualified Offer),reseller-account:CRMSTORAGE
+Dynamics 365 - Additional Production Instance (Qualified Offer),reseller-account:CRMINSTANCE
+Dynamics 365 - Additional Non-Production Instance (Qualified Offer),reseller-account:CRMTESTINSTANCE
+Dynamics 365 Asset Management Addl Assets,reseller-account:DYN365_ASSETMANAGEMENT
+Dynamics 365 Business Central Additional Environment Addon,reseller-account:DYN365_BUSCENTRAL_ADD_ENV_ADDON
+Dynamics 365 Business Central Database Capacity,reseller-account:DYN365_BUSCENTRAL_DB_CAPACITY
+Dynamics 365 Business Central Essentials,reseller-account:DYN365_BUSCENTRAL_ESSENTIAL
+Dynamics 365 Business Central External Accountant,reseller-account:DYN365_FINANCIALS_ACCOUNTANT_SKU
+Dynamics 365 Business Central for IWs,reseller-account:PROJECT_MADEIRA_PREVIEW_IW_SKU
+Dynamics 365 Business Central Premium,reseller-account:DYN365_BUSCENTRAL_PREMIUM
+Dynamics 365 Customer Engagement Plan,reseller-account:DYN365_ENTERPRISE_PLAN1
+Dynamics 365 Customer Service Insights Trial,reseller-account:DYN365_AI_SERVICE_INSIGHTS
+Dynamics 365 Customer Voice Trial,reseller-account:FORMS_PRO
+Dynamics 365 Customer Service Professional,reseller-account:DYN365_CUSTOMER_SERVICE_PRO
+Dynamics 365 Customer Voice Additional Responses,reseller-account:Forms_Pro_AddOn
+Dynamics 365 Customer Voice Additional Responses,reseller-account:DYN365_CUSTOMER_VOICE_ADDON
+Dynamics 365 Customer Voice USL,reseller-account:Forms_Pro_USL
+Dynamics 365 Enterprise Edition - Additional Portal (Qualified Offer),reseller-account:CRM_ONLINE_PORTAL
+Dynamics 365 Finance,reseller-account:DYN365_FINANCE
+DYNAMICS 365 FOR CUSTOMER SERVICE ENTERPRISE EDITION,reseller-account:DYN365_ENTERPRISE_CUSTOMER_SERVICE
+DYNAMICS 365 FOR FINANCIALS BUSINESS EDITION,reseller-account:DYN365_FINANCIALS_BUSINESS_SKU
+DYNAMICS 365 FOR SALES AND CUSTOMER SERVICE ENTERPRISE EDITION,reseller-account:DYN365_ENTERPRISE_SALES_CUSTOMERSERVICE
+DYNAMICS 365 FOR SALES ENTERPRISE EDITION,reseller-account:DYN365_ENTERPRISE_SALES
+Dynamics 365 Sales Professional,reseller-account:D365_SALES_PRO 
+Dynamics 365 Sales Professional Attach to Qualifying Dynamics 365 Base Offer,reseller-account:D365_SALES_PRO_ATTACH
+DYNAMICS 365 FOR SUPPLY CHAIN MANAGEMENT,reseller-account:DYN365_SCM
+Dynamics 365 for Talent,reseller-account:SKU_Dynamics_365_for_HCM_Trial
+DYNAMICS 365 FOR TEAM MEMBERS ENTERPRISE EDITION,reseller-account:DYN365_ENTERPRISE_TEAM_MEMBERS
+Dynamics 365 Guides,reseller-account:GUIDES_USER
+Dynamics 365 Operations - Device,reseller-account:Dynamics_365_for_Operations_Devices
+Dynamics 365 Operations - Sandbox Tier 2:Standard Acceptance Testing,reseller-account:Dynamics_365_for_Operations_Sandbox_Tier2_SKU
+Dynamics 365 Operations - Sandbox Tier 4:Standard Performance Testing,reseller-account:Dynamics_365_for_Operations_Sandbox_Tier4_SKU
+DYNAMICS 365 P1 TRIAL FOR INFORMATION WORKERS,reseller-account:DYN365_ENTERPRISE_P1_IW
+Dynamics 365 Remote Assist,reseller-account:MICROSOFT_REMOTE_ASSIST
+Dynamics 365 Remote Assist HoloLens,reseller-account:MICROSOFT_REMOTE_ASSIST_HOLOLENS
+Dynamics 365 Sales Enterprise Attach to Qualifying Dynamics 365 Base Offer,reseller-account:D365_SALES_ENT_ATTACH
+DYNAMICS 365 TALENT: ONBOARD,reseller-account:DYNAMICS_365_ONBOARDING_SKU
+DYNAMICS 365 TEAM MEMBERS,reseller-account:DYN365_TEAM_MEMBERS
+DYNAMICS 365 UNF OPS PLAN ENT EDITION,reseller-account:Dynamics_365_for_Operations
+ENTERPRISE MOBILITY + SECURITY E3,reseller-account:EMS
+ENTERPRISE MOBILITY + SECURITY E5,reseller-account:EMSPREMIUM
+Enterprise Mobility + Security G3 GCC,reseller-account:EMS_GOV
+Enterprise Mobility + Security G5 GCC,reseller-account:EMSPREMIUM_GOV
+Exchange Enterprise CAL Services (EOP DLP),reseller-account:EOP_ENTERPRISE_PREMIUM
+Exchange Online (Plan 1),reseller-account:EXCHANGESTANDARD
+EXCHANGE ONLINE (PLAN 2),reseller-account:EXCHANGEENTERPRISE
+EXCHANGE ONLINE ARCHIVING FOR EXCHANGE ONLINE,reseller-account:EXCHANGEARCHIVE_ADDON
+EXCHANGE ONLINE ARCHIVING FOR EXCHANGE SERVER,reseller-account:EXCHANGEARCHIVE
+EXCHANGE ONLINE ESSENTIALS (ExO P1 BASED),reseller-account:EXCHANGEESSENTIALS
+EXCHANGE ONLINE ESSENTIALS,reseller-account:EXCHANGE_S_ESSENTIALS
+EXCHANGE ONLINE KIOSK,reseller-account:EXCHANGEDESKLESS
+EXCHANGE ONLINE POP,reseller-account:EXCHANGETELCO
+INTUNE,reseller-account:INTUNE_A
+Microsoft Dynamics AX7 User Trial,reseller-account:AX7_USER_TRIAL
+Microsoft Azure Multi-Factor Authentication,reseller-account:MFA_STANDALONE
+Microsoft Defender for Office 365 (Plan 2),reseller-account:THREAT_INTELLIGENCE
+Microsoft 365 A1,reseller-account:M365EDU_A1
+Microsoft 365 A3 for Faculty,reseller-account:M365EDU_A3_FACULTY
+MICROSOFT 365 A3 FOR STUDENTS,reseller-account:M365EDU_A3_STUDENT
+Microsoft 365 A3 for students use benefit,reseller-account:M365EDU_A3_STUUSEBNFT
+Microsoft 365 A3 - Unattended License for students use benefit,reseller-account:M365EDU_A3_STUUSEBNFT_RPA1
+Microsoft 365 A5 for Faculty,reseller-account:M365EDU_A5_FACULTY
+MICROSOFT 365 A5 FOR STUDENTS,reseller-account:M365EDU_A5_STUDENT
+Microsoft 365 A5 for students use benefit,reseller-account:M365EDU_A5_STUUSEBNFT
+Microsoft 365 A5 without Audio Conferencing for students use benefit,reseller-account:M365EDU_A5_NOPSTNCONF_STUUSEBNFT
+MICROSOFT 365 APPS FOR BUSINESS,reseller-account:O365_BUSINESS
+MICROSOFT 365 APPS FOR BUSINESS,reseller-account:SMB_BUSINESS
+MICROSOFT 365 APPS FOR ENTERPRISE,reseller-account:OFFICESUBSCRIPTION
+MICROSOFT 365 AUDIO CONFERENCING FOR GCC,reseller-account:MCOMEETADV_GOC
+MICROSOFT 365 BUSINESS BASIC,reseller-account:O365_BUSINESS_ESSENTIALS
+MICROSOFT 365 BUSINESS BASIC,reseller-account:SMB_BUSINESS_ESSENTIALS
+MICROSOFT 365 BUSINESS STANDARD,reseller-account:O365_BUSINESS_PREMIUM
+MICROSOFT 365 BUSINESS STANDARD - PREPAID LEGACY,reseller-account:SMB_BUSINESS_PREMIUM
+MICROSOFT 365 BUSINESS PREMIUM,reseller-account:SPB
+Microsoft 365 Business Voice (US),reseller-account:BUSINESS_VOICE_MED2_TELCO
+Microsoft 365 Business Voice (without calling plan) ,reseller-account:BUSINESS_VOICE_DIRECTROUTING
+Microsoft 365 Business Voice (without Calling Plan) for US,reseller-account:BUSINESS_VOICE_DIRECTROUTING_MED
+MICROSOFT 365 DOMESTIC CALLING PLAN (120 Minutes),reseller-account:MCOPSTN_5
+Microsoft 365 Domestic Calling Plan for GCC,reseller-account:MCOPSTN_1_GOV
+MICROSOFT 365 E3,reseller-account:SPE_E3
+Microsoft 365 E3 - Unattended License,reseller-account:SPE_E3_RPA1
+Microsoft 365 E3_USGOV_DOD,reseller-account:SPE_E3_USGOV_DOD
+Microsoft 365 E3_USGOV_GCCHIGH,reseller-account:SPE_E3_USGOV_GCCHIGH
+Microsoft 365 E5,reseller-account:SPE_E5
+Microsoft 365 E5 Compliance,reseller-account:INFORMATION_PROTECTION_COMPLIANCE
+Microsoft 365 E5 Security,reseller-account:IDENTITY_THREAT_PROTECTION
+Microsoft 365 E5 Security for EMS E5,reseller-account:IDENTITY_THREAT_PROTECTION_FOR_EMS_E5
+Microsoft 365 E5 without Audio Conferencing ,reseller-account:SPE_E5_NOPSTNCONF
+Microsoft 365 F1,reseller-account:M365_F1
+Microsoft 365 F3,reseller-account:SPE_F1
+MICROSOFT FLOW FREE,reseller-account:FLOW_FREE
+MICROSOFT 365 AUDIO CONFERENCING FOR GCC,reseller-account:MCOMEETADV_GOV
+Microsoft 365 E5 Suite features,reseller-account:M365_E5_SUITE_COMPONENTS
+Microsoft 365 F1,reseller-account:M365_F1_COMM
+MICROSOFT 365 G3 GCC,reseller-account:M365_G3_GOV
+MICROSOFT 365 PHONE SYSTEM,reseller-account:MCOEV
+MICROSOFT 365 PHONE SYSTEM FOR DOD,reseller-account:MCOEV_DOD
+MICROSOFT 365 PHONE SYSTEM FOR FACULTY,reseller-account:MCOEV_FACULTY
+MICROSOFT 365 PHONE SYSTEM FOR GCC,reseller-account:MCOEV_GOV
+MICROSOFT 365 PHONE SYSTEM FOR GCCHIGH,reseller-account:MCOEV_GCCHIGH
+MICROSOFT 365 PHONE SYSTEM FOR SMALL AND MEDIUM BUSINESS,reseller-account:MCOEVSMB_1
+MICROSOFT 365 PHONE SYSTEM FOR STUDENTS,reseller-account:MCOEV_STUDENT
+MICROSOFT 365 PHONE SYSTEM FOR TELSTRA,reseller-account:MCOEV_TELSTRA
+MICROSOFT 365 PHONE SYSTEM_USGOV_DOD,reseller-account:MCOEV_USGOV_DOD
+MICROSOFT 365 PHONE SYSTEM_USGOV_GCCHIGH,reseller-account:MCOEV_USGOV_GCCHIGH
+MICROSOFT 365 PHONE SYSTEM - VIRTUAL USER,reseller-account:PHONESYSTEM_VIRTUALUSER
+Microsoft 365 Phone System - Virtual User for GCC,reseller-account:PHONESYSTEM_VIRTUALUSER_GOV
+Microsoft 365 Security and Compliance for Firstline Workers,reseller-account:M365_SECURITY_COMPLIANCE_FOR_FLW
+MICROSOFT BUSINESS CENTER,reseller-account:MICROSOFT_BUSINESS_CENTER
+Microsoft Cloud App Security,reseller-account:ADALLOM_STANDALONE
+MICROSOFT DEFENDER FOR ENDPOINT,reseller-account:WIN_DEF_ATP
+Microsoft Defender for Endpoint Server,reseller-account:MDATP_Server
+MICROSOFT DYNAMICS CRM ONLINE BASIC,reseller-account:CRMPLAN2
+Microsoft Defender for Identity,reseller-account:ATA
+Microsoft Defender for Office 365 (Plan 2) GCC,reseller-account:THREAT_INTELLIGENCE_GOV
+MICROSOFT DYNAMICS CRM ONLINE,reseller-account:CRMSTANDARD
+MS IMAGINE ACADEMY,reseller-account:IT_ACADEMY_AD
+Microsoft Intune Device,reseller-account:INTUNE_A_D
+MICROSOFT INTUNE DEVICE FOR GOVERNMENT,reseller-account:INTUNE_A_D_GOV
+Microsoft Power Apps Plan 2 Trial,reseller-account:POWERAPPS_VIRAL
+MICROSOFT POWER AUTOMATE PLAN 2,reseller-account:FLOW_P2
+MICROSOFT INTUNE SMB,reseller-account:INTUNE_SMB
+Microsoft Power Apps Plan 2 (Qualified Offer),reseller-account:POWERFLOW_P2
+MICROSOFT STREAM,reseller-account:STREAM
+Microsoft Stream Plan 2,reseller-account:STREAM_P2
+Microsoft Stream Storage Add-On (500 GB),reseller-account:STREAM_STORAGE
+MICROSOFT TEAMS (FREE),reseller-account:TEAMS_FREE
+MICROSOFT TEAMS EXPLORATORY,reseller-account:TEAMS_EXPLORATORY
+Microsoft Teams Rooms Standard,reseller-account:MEETING_ROOM
+Microsoft Teams Trial,reseller-account:MS_TEAMS_IW
+Microsoft Threat Experts - Experts on Demand,reseller-account:EXPERTS_ON_DEMAND
+Multi-Geo Capabilities in Office 365,reseller-account:OFFICE365_MULTIGEO
+Teams Rooms Premium,reseller-account:MTR_PREM
+Office 365 A3 for faculty,reseller-account:ENTERPRISEPACKPLUS_FACULTY
+Office 365 A3 for students,reseller-account:ENTERPRISEPACKPLUS_STUDENT
+Office 365 A5 for faculty,reseller-account:ENTERPRISEPREMIUM_FACULTY
+Office 365 A5 for students,reseller-account:ENTERPRISEPREMIUM_STUDENT
+Office 365 Advanced Compliance,reseller-account:EQUIVIO_ANALYTICS
+Microsoft Defender for Office 365 (Plan 1),reseller-account:ATP_ENTERPRISE
+Office 365 Extra File Storage for GCC,reseller-account:SHAREPOINTSTORAGE_GOV
+Microsoft Teams Commercial Cloud,reseller-account:TEAMS_COMMERCIAL_TRIAL
+Office 365 Cloud App Security,reseller-account:ADALLOM_O365
+Office 365 Extra File Storage,reseller-account:SHAREPOINTSTORAGE
+OFFICE 365 E1,reseller-account:STANDARDPACK
+OFFICE 365 E2,reseller-account:STANDARDWOFFPACK
+Office 365 E3,reseller-account:ENTERPRISEPACK
+OFFICE 365 E3 DEVELOPER,reseller-account:DEVELOPERPACK
+Office 365 E3_USGOV_DOD,reseller-account:ENTERPRISEPACK_USGOV_DOD
+Office 365 E3_USGOV_GCCHIGH,reseller-account:ENTERPRISEPACK_USGOV_GCCHIGH
+OFFICE 365 E4,reseller-account:ENTERPRISEWITHSCAL
+Office 365 E5,reseller-account:ENTERPRISEPREMIUM
+OFFICE 365 E5 WITHOUT AUDIO CONFERENCING,reseller-account:ENTERPRISEPREMIUM_NOPSTNCONF
+OFFICE 365 F3,reseller-account:DESKLESSPACK
+OFFICE 365 G3 GCC,reseller-account:ENTERPRISEPACK_GOV
+Office 365 G5 GCC,reseller-account:ENTERPRISEPREMIUM_GOV
+OFFICE 365 MIDSIZE BUSINESS,reseller-account:MIDSIZEPACK
+OFFICE 365 SMALL BUSINESS,reseller-account:LITEPACK
+OFFICE 365 SMALL BUSINESS PREMIUM,reseller-account:LITEPACK_P2
+ONEDRIVE FOR BUSINESS (PLAN 1),reseller-account:WACONEDRIVESTANDARD
+ONEDRIVE FOR BUSINESS (PLAN 2),reseller-account:WACONEDRIVEENTERPRISE
+POWERAPPS AND LOGIC FLOWS,reseller-account:POWERAPPS_INDIVIDUAL_USER
+PowerApps per app baseline access,reseller-account:POWERAPPS_PER_APP_IW
+Power Apps per app plan,reseller-account:POWERAPPS_PER_APP
+Power Apps per user plan,reseller-account:POWERAPPS_PER_USER
+Power Automate per flow plan,reseller-account:FLOW_BUSINESS_PROCESS
+Power Automate per user plan,reseller-account:FLOW_PER_USER
+Power Automate per user plan dept,reseller-account:FLOW_PER_USER_DEPT
+Power Automate per user with attended RPA plan,reseller-account:POWERAUTOMATE_ATTENDED_RPA
+Power Automate unattended RPA add-on,reseller-account:POWERAUTOMATE_UNATTENDED_RPA
+Power BI,reseller-account:POWER_BI_INDIVIDUAL_USER
+Power BI (free),reseller-account:POWER_BI_STANDARD
+POWER BI FOR OFFICE 365 ADD-ON,reseller-account:POWER_BI_ADDON
+Power BI Premium P1,reseller-account:PBI_PREMIUM_P1_ADDON
+Power BI Premium Per User,reseller-account:PBI_PREMIUM_PER_USER
+Power BI Premium Per User Add-On,reseller-account:PBI_PREMIUM_PER_USER_ADDON
+Power BI Premium Per User Dept,reseller-account:PBI_PREMIUM_PER_USER_DEPT
+Power BI Pro,reseller-account:POWER_BI_PRO
+Power BI Pro CE,reseller-account:POWER_BI_PRO_CE
+Power BI Pro Dept,reseller-account:POWER_BI_PRO_DEPT
+Power Virtual Agent,reseller-account:VIRTUAL_AGENT_BASE
+Power Virtual Agents Viral Trial,reseller-account:CCIBOTS_PRIVPREV_VIRAL
+PROJECT FOR OFFICE 365,reseller-account:PROJECTCLIENT
+Project Online Essentials,reseller-account:PROJECTESSENTIALS
+PROJECT ONLINE PREMIUM,reseller-account:PROJECTPREMIUM
+PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT,reseller-account:PROJECTONLINE_PLAN_1
+PROJECT ONLINE WITH PROJECT FOR OFFICE 365,reseller-account:PROJECTONLINE_PLAN_2
+PROJECT PLAN 1,reseller-account:PROJECT_P1
+Project Plan 1 (for Department),reseller-account:PROJECT_PLAN1_DEPT
+Project Plan 3,reseller-account:PROJECTPROFESSIONAL
+Project Plan 3 (for Department),reseller-account:PROJECT_PLAN3_DEPT
+Project Plan 3 for GCC,reseller-account:PROJECTPROFESSIONAL_GOV
+Project Plan 5 for GCC,reseller-account:PROJECTPREMIUM_GOV
+Rights Management Adhoc,reseller-account:RIGHTSMANAGEMENT_ADHOC
+Rights Management Service Basic Content Protection,reseller-account:RMSBASIC
+Sensor Data Intelligence Additional Machines Add-in for Dynamics 365 Supply Chain Management,reseller-account:DYN365_IOT_INTELLIGENCE_ADDL_MACHINES
+Sensor Data Intelligence Scenario Add-in for Dynamics 365 Supply Chain Management,reseller-account:DYN365_IOT_INTELLIGENCE_SCENARIO
+SHAREPOINT ONLINE (PLAN 1),reseller-account:SHAREPOINTSTANDARD
+SHAREPOINT ONLINE (PLAN 2),reseller-account:SHAREPOINTENTERPRISE
+SharePoint Syntex,reseller-account:Intelligent_Content_Services
+SKYPE FOR BUSINESS ONLINE (PLAN 1),reseller-account:MCOIMP
+SKYPE FOR BUSINESS ONLINE (PLAN 2),reseller-account:MCOSTANDARD
+SKYPE FOR BUSINESS PSTN DOMESTIC AND INTERNATIONAL CALLING,reseller-account:MCOPSTN2
+SKYPE FOR BUSINESS PSTN DOMESTIC CALLING,reseller-account:MCOPSTN1
+SKYPE FOR BUSINESS PSTN DOMESTIC CALLING (120 Minutes),reseller-account:MCOPSTN5
+TELSTRA CALLING FOR O365,reseller-account:MCOPSTNEAU2
+Universal Print,reseller-account:UNIVERSAL_PRINT
+Visio Plan 1,reseller-account:VISIO_PLAN1_DEPT
+Visio Plan 2,reseller-account:VISIO_PLAN2_DEPT
+VISIO ONLINE PLAN 1,reseller-account:VISIOONLINE_PLAN1
+VISIO ONLINE PLAN 2,reseller-account:VISIOCLIENT
+VISIO PLAN 2 FOR GCC,reseller-account:VISIOCLIENT_GOV
+Viva Topics,reseller-account:TOPIC_EXPERIENCES
+Windows 10 Enterprise A3 for faculty,reseller-account:WIN10_ENT_A3_FAC
+Windows 10 Enterprise A3 for students,reseller-account:WIN10_ENT_A3_STU
+WINDOWS 10 ENTERPRISE E3,reseller-account:WIN10_PRO_ENT_SUB
+WINDOWS 10 ENTERPRISE E3,reseller-account:WIN10_VDA_E3
+Windows 10 Enterprise E5,reseller-account:WIN10_VDA_E5
+Windows 10 Enterprise E5 Commercial (GCC Compatible),reseller-account:WINE5_GCC_COMPAT
+Windows 365 Business 2 vCPU 4 GB 64 GB,reseller-account:CPC_B_2C_4RAM_64GB
+Windows 365 Business 4 vCPU 16 GB 128 GB (with Windows Hybrid Benefit),reseller-account:CPC_B_4C_16RAM_128GB_WHB
+Windows 365 Enterprise 2 vCPU 4 GB 64 GB,reseller-account:CPC_E_2C_4GB_64GB
+WINDOWS STORE FOR BUSINESS,reseller-account:WINDOWS_STORE
+Microsoft Workplace Analytics,reseller-account:WORKPLACE_ANALYTICS
