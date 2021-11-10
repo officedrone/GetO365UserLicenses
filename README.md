@@ -15,8 +15,7 @@ Report sample:
 
 
 
-Product name input file sample (file included is as of Nov 10, 2021):
-
+Product name input file sample (file included content from https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/licensing-service-plan-reference as of Nov 10, 2021):
 
 NOTE: If the "reseller-account:" portion of the license is not included in your org (e.g if you don't have MSP handling licenses for example), then simply Find/Remove all instances of the "reseller-account:" sting from the file.
 ![image](https://user-images.githubusercontent.com/67024372/141153912-81d90076-5647-4b38-a097-3e213d12daed.png)
