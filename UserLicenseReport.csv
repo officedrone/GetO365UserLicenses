@@ -1,0 +1,9 @@
+DisplayName,UserPrincipalName,AccountDisabled,License,Product
+BoardRoom1,BoardRoom1@domain.com,FALSE,reseller-account:MEETING_ROOM,Microsoft Teams Rooms Standard
+BoardRoom2,BoardRoom2@domain.com,FALSE,reseller-account:MEETING_ROOM,Microsoft Teams Rooms Standard
+User1,User1@domain.com,FALSE,reseller-account:WIN10_PRO_ENT_SUB,WINDOWS 10 ENTERPRISE E3
+User1,User1@domain.com,FALSE,reseller-account:ENTERPRISEPREMIUM,Office 365 E5
+User1,User1@domain.com,FALSE,reseller-account:EMSPREMIUM,ENTERPRISE MOBILITY + SECURITY E5
+User2,User2@domain.com,FALSE,reseller-account:WIN10_PRO_ENT_SUB,WINDOWS 10 ENTERPRISE E3
+User2,User2@domain.com,FALSE,reseller-account:ENTERPRISEPREMIUM,Office 365 E5
+User2,User2@domain.com,FALSE,reseller-account:EMSPREMIUM,ENTERPRISE MOBILITY + SECURITY E5
