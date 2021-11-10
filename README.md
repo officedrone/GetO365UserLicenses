@@ -1,6 +1,4 @@
 # GetO365UserLicenses
-Get all users and their assigned licenses and produce readable report
-
 This simple scripts compiles a list of all users from the O365 tenant, discovers licenses assigned to the users and exports the results in a report.
 
 File description:
